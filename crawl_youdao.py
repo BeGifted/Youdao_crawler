@@ -1,7 +1,7 @@
 """
 有道翻译爬虫
 
-Version: 0.1
+Version: 0.1 
 Author: gongyuandaye
 """
 
